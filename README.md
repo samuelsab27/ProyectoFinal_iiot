@@ -501,6 +501,9 @@ En cumplimiento de la **Nota 2** del enunciado del proyecto, el equipo detalla e
 | **R1 — Hardware, Firmware y Visión IA** | **Julián Andrés Vásquez Pedraza (302760)** | Ensamblaje de la unidad térmica, etapa PWM y celda Peltier TEC1-12706, conexión de DHT22 y lector RFID RC522, firmware C++ (`fridge_manager` y `camera_fridge`), modelo en Edge Impulse y servidor `/jpg` y `/boxes` en ESP32-S3. | Contribución: 5.0, Puntualidad: 5.0, Calidad: 5.0, Colaboración: 5.0 |
 | **R2 — Gemelo Digital, Backend y Documentación** | **Samuel Sabogal Espinel (301080)** | Desarrollo del Frontend (`frontend_unificado.html`), modelo SVG, Backend Flask (`app_unificado.py`), cronómetro de 30s, cálculo de MKT, simulador *What-If* (`1x`/`10x`), módulos de usuario RFID y vencimientos, histórico CSV, artículo IEEE y Wiki. | Contribución: 5.0, Puntualidad: 5.0, Calidad: 5.0, Colaboración: 5.0 |
 
+## Anexo 9.4 Enlace modelo edge impulse publico
+https://studio.edgeimpulse.com/public/1154258/live
+
 ### Acta de Reunión de Cierre e Integración
 * **Fecha y Duración:** 8 y 9 de noviembre de 2026 (180 minutos).
 * **Participantes:** Samuel Sabogal Espinel (R2) y Julián Andrés Vásquez Pedraza (R1).
