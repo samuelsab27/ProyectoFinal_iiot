@@ -12,7 +12,7 @@
 ---
 
 ## Tabla de Contenidos de la Wiki
-1. #1 Carro de paro automatizado
+1. # 1 Carro de paro automatizado
 2. [Resumen (Abstract)](#2-resumen-abstract)
 3. [Introducción](#3-introducción)
    - [3.f. Trabajo Relacionado y Tabla Comparativa de Antecedentes](#3f-trabajo-relacionado-y-tabla-comparativa-de-antecedentes)
