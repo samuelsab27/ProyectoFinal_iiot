@@ -1,5 +1,5 @@
 # ProyectoFinal_iiot
-#1.Carro de paro automatizado
+# 1. Carro de paro automatizado
 **Diseño e Implementación de un Gemelo Digital bajo ISO 23247-2 para el Acondicionamiento Termohigrométrico y Trazabilidad de Inventario de Carros de Paro en un Establecimiento de Sanidad Militar**
 
 **Autores:**
