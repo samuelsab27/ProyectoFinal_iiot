@@ -1,5 +1,5 @@
 # ProyectoFinal_iiot
-# 1. Título del Proyecto
+#1.Carro de paro automatizado
 **Diseño e Implementación de un Gemelo Digital bajo ISO 23247-2 para el Acondicionamiento Termohigrométrico y Trazabilidad de Inventario de Carros de Paro en un Establecimiento de Sanidad Militar**
 
 **Autores:**
@@ -12,7 +12,7 @@
 ---
 
 ## Tabla de Contenidos de la Wiki
-1. [Título del Proyecto](#1-título-del-proyecto)
+1. #1 Carro de paro automatizado
 2. [Resumen (Abstract)](#2-resumen-abstract)
 3. [Introducción](#3-introducción)
    - [3.f. Trabajo Relacionado y Tabla Comparativa de Antecedentes](#3f-trabajo-relacionado-y-tabla-comparativa-de-antecedentes)
